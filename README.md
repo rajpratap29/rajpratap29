@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Pratap</h1>
 <h3 align="center">A passionate iOS developer</h3>
 
-- I’m currently working on **beginner iOS Projects**
+- 🔭 I’m currently working on **beginner iOS Projects**
 
 - 🌱 I’m currently learning **iOS development and mastering DSA in C++**
 
