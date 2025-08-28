@@ -5,7 +5,7 @@
 
 - 🌱 Constantly learning and exploring **modern web technologies**
 
-- 🤝 Open to collaborations on **exciting web development projects**
+- 🤝 Open to collaborations on **exciting web development projects **
 
 - 💬 Ask me about **JavaScript, React, Node.js, and web performance**
 
