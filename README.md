@@ -14,7 +14,7 @@ I enjoy building scalable, secure, and well-structured web applications with cle
 - 🧠 Interested in **authentication, databases, APIs, queues, and background jobs**
 - 🤝 Open to collaborating on **backend-heavy or full-stack projects**
 - 💬 Ask me about **Node.js, Express, MongoDB, REST APIs, and web performance**
-- ⚡ Fun fact: **I enjoy debugging more than writing new code (most days)**
+- ⚡ Fun fact **I have a love-hate relationship with bugs... I love finding them, but I hate fixing them!**
 
 ---
 
