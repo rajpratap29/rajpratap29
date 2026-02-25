@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raj Pratap</h1>
-<h3 align="center">Full-Stack Developer with a Strong Backend Focus</h3>
+<h3 align="center">Software Engineer focused on Scalable Backend Systems</h3>
 
 <p align="center">
-I enjoy building scalable, secure, and well-structured web applications with clean APIs and solid backend architecture.
+I build scalable, secure, and production-ready web systems with strong emphasis on backend architecture, clean APIs, and system design.
 </p>
 
 ---
