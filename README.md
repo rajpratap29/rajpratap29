@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj Pratap</h1>
+<h1> align="center">Hi 👋, I'm Raj Pratap</h1>
 <h3 align="center">Full-Stack Developer with a Strong Backend Focus</h3>
 
 <p align="center">
@@ -9,11 +9,14 @@ I enjoy building scalable, secure, and well-structured web applications with cle
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **scalable backend systems and full-stack web applications**
-- 🌱 Focused on improving **backend architecture, system design, and performance**
-- 🧠 Interested in **authentication, databases, APIs, queues, and background jobs**
-- 🤝 Open to collaborating on **backend-heavy or full-stack projects**
-- 💬 Ask me about **Node.js, Express, MongoDB, REST APIs, and web performance**
+### 👨‍💻 About Me
+
+- 🔭 Currently building **scalable backend systems and production-grade web applications**
+- 🧠 Focused on **system design, backend architecture, and performance optimization**
+- ⚙️ Experienced with **authentication, REST APIs, databases, and distributed system fundamentals**
+- 🏗️ Interested in **high-performance systems, data modeling, caching, and background processing**
+- 🤝 Open to collaborating on **backend-heavy and system-focused projects**
+- 💬 Ask me about **Node.js, Express, MongoDB, SQL, APIs, and backend design**
 - ⚡ Fun fact **I have a love-hate relationship with bugs... I love finding them, but I hate fixing them!**
 
 ---
