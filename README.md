@@ -35,7 +35,3 @@ I enjoy building scalable, secure, and well-structured web applications with cle
 <p align="center">
 Always learning, always building, and always improving.
 </p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajpratap29&show_icons=true&locale=en&layout=compact" alt="rajpratap29" /></p>
