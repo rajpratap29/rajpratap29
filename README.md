@@ -9,8 +9,6 @@ I build scalable, secure, and production-ready web systems with strong emphasis 
 
 ### 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
 - 🔭 Currently building **scalable backend systems and production-grade web applications**
 - 🧠 Focused on **system design, backend architecture, and performance optimization**
 - ⚙️ Experienced with **authentication, REST APIs, databases, and distributed system fundamentals**
